@@ -1,0 +1,6 @@
+#Wed, 04 Jun 2014 11:41:43 +0800
+#Wed Mar 05 16:17:22 CST 2008
+build.date=0604
+webapp.version=1.0.0-GA
+webapp.revision=${webapp.revision}
+build.version=V${webapp.version}B${build.date}_${webapp.revision}
